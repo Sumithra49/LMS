@@ -1,0 +1,1 @@
+export const BaseURL =  "https://lms-1-s084.onrender.com/api"
